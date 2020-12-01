@@ -1,2 +1,2 @@
 # ML-Lab-Project-Bat-Scanner
-Working Space for the pan-tilt scanner machine learning lab project
+Working Space for the Pan-Tilt Scanner Machine Learning Lab Project
