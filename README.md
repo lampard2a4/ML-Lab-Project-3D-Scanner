@@ -1,4 +1,6 @@
 # ML-Lab-Project-3D-Scanner
+Ongoing event:
+
 Presentation Work Space:
 https://docs.google.com/presentation/d/1mo7Ssu0sI9kMCE105JCqtBY5cOJPAcJq/edit#slide=id.p1
 
